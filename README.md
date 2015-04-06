@@ -13,7 +13,9 @@ Demo
 
 Version
 ---------
-ver 1.0d
+
+ver 1.0d - 2014.1.16
+
 1.Remove plugins BBcode/Xhtml/Upload.
 2.Fixed "removeEvent" bug.
 3.Fixed "rangeCount" bug on Chrome.
