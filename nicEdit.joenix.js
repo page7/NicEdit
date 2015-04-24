@@ -621,7 +621,7 @@ Function.prototype.closureListener = function() {
 }
 
 
-/* START CONFIG */
+/* Config */
 
 var nicEditorConfig = bkClass.extend({
 	buttons : {
